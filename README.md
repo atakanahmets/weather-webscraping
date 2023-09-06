@@ -1,2 +1,3 @@
 # weather-webscraping
- Web scraping ile şehir ismi girerek güncel hava durumunu öğrenme programı.
+ Web scraping ile hava durumunu öğrenme.
+ Learn to weather with a web scraping.
